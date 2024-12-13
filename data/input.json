@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "date": "2024-12-01T12:30:00",
+    "amount": 200.5,
+    "customerId": 101,
+    "status": "PENDING"
+  },
+  {
+    "id": 2,
+    "date": "2024-12-02T14:00:00",
+    "amount": 450.0,
+    "customerId": 102,
+    "status": "PENDING"
+  },
+  {
+    "id": 3,
+    "date": "2024-12-03T16:45:00",
+    "amount": 150.0,
+    "customerId": 103,
+    "status": "PENDING"
+  }
+]
